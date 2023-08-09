@@ -2,7 +2,7 @@
 
 This project demonstrates deployment of a very simple contract using Hardware wallet Ledger Nano S Plus
 
-It makes use of official plugin [@nomicfoundation/hardhat-ledger](https://github.com/NomicFoundation/hardhat/releases/tag/%40nomicfoundation%2Fhardhat-ledger%401.0.0, "hardhat-ledger")
+It makes use of official plugin [@nomicfoundation/hardhat-ledger](https://github.com/NomicFoundation/hardhat/releases/tag/%40nomicfoundation%2Fhardhat-ledger%401.0.0 "hardhat-ledger")
 
 **Steps to follow**
 * Clone this repo
