@@ -1,5 +1,5 @@
 # Deploy contracts in Hardhat using Ledger
----
+
 This project demonstrates deployment of a very simple contract using Hardware wallet ledger nano S
 
 It makes use of official plugin [@nomicfoundation/hardhat-ledger](https://github.com/NomicFoundation/hardhat/releases/tag/%40nomicfoundation%2Fhardhat-ledger%401.0.0, "hardhat-ledger")
